@@ -2,6 +2,9 @@
 En este repositorio se almacenarán las diferentes versiones del kit de diseño UI de SEDA el Sistema de Estandares de Diseño para Administraciones.
 
 SEDA forma parte del Trabajo Final de Master de Ingeniería Informática de Victor Fagúndez Poyo.
+## Comenzando 🚀
+
+Para poder utilizar este script es necesario el uso del software [Figma](https://www.figma.com/).
 ## Este repositorio alberga:
  El UI Kit v3 en su formato nativo Figma (.fig), disponible para verlo y copiarlo
 
